@@ -22,7 +22,12 @@ class Ward(Base):
     __tablename__ = 'wards'
 
     id = Column(Integer, primary_key=True, index=True, autoincrement=True)
-    name = Column(String, unique=True, index=True, description="The ward's name")
+    """Fullname of the ward 
+
+    Returns:
+        _type_: _description_
+    """
+    fullname = Column(String, unique=True, index=True, description="The ward's name")
     location = Column(String, nullable=True)
     capacity = Column(Integer)
     parent= Column(Integer, ForeignKey('users.id'))

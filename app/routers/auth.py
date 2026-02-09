@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from app.schemas.registerSchema import RegisterSchema
+from app.schemas.request.registerSchema import RegisterSchema
 from starlette.responses import JSONResponse
 from starlette import status
 

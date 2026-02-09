@@ -1,11 +1,23 @@
-from fastapi import FastAPI
+from fastapi import Depends, FastAPI, HTTPException, UploadFile, File, 
+Depends
+from starlette.responses import JSONResponse, FileResponse
+from starlette import status
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
 import uvicorn
+import os
+from fastapi.staticfiles import StaticFiles
 
 from app.routers import auth, machine
 
 
 app = FastAPI()
+app.mount("/static", StaticFiles(directory="static"), name="static")
+favicon_path = os.path.join(os.path.dirname(__file__), "static",  "favicon.ico") 
+
+@app.get("/favicon.ico", include_in_schema=False)
+async def favicon():
+    return FileResponse(favicon_path)
 
 # Add CORS middleware
 app.add_middleware(

@@ -1,0 +1,1085 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "pygame",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame",
+        "description": "pygame",
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "whisper",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "whisper",
+        "description": "whisper",
+        "detail": "whisper",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Uuid",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "user",
+        "description": "user",
+        "detail": "user",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterSchema",
+        "importPath": "app.schemas.request.registerSchema",
+        "description": "app.schemas.request.registerSchema",
+        "isExtraImport": true,
+        "detail": "app.schemas.request.registerSchema",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "starlette",
+        "description": "starlette",
+        "isExtraImport": true,
+        "detail": "starlette",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "starlette",
+        "description": "starlette",
+        "isExtraImport": true,
+        "detail": "starlette",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "services.service",
+        "description": "services.service",
+        "isExtraImport": true,
+        "detail": "services.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "services.service",
+        "description": "services.service",
+        "isExtraImport": true,
+        "detail": "services.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "services.service",
+        "description": "services.service",
+        "isExtraImport": true,
+        "detail": "services.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "services.service",
+        "description": "services.service",
+        "isExtraImport": true,
+        "detail": "services.service",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "GeneralService",
+        "importPath": "services.general.general_service",
+        "description": "services.general.general_service",
+        "isExtraImport": true,
+        "detail": "services.general.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticatonService",
+        "importPath": "services.auth.authentication_service",
+        "description": "services.auth.authentication_service",
+        "isExtraImport": true,
+        "detail": "services.auth.authentication_service",
+        "documentation": {}
+    },
+    {
+        "label": "factory_config",
+        "importPath": "config.factory_config",
+        "description": "config.factory_config",
+        "isExtraImport": true,
+        "detail": "config.factory_config",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "machine",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"dyxi-uv\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"dyxi-uv\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"dyxi-uv\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"dyxi-uv\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"dyxi-uv\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.bin.jp",
+        "description": ".venv.bin.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": ".venv.bin.jp",
+        "documentation": {}
+    },
+    {
+        "label": "factory_config",
+        "kind": 5,
+        "importPath": "app.config.factory_config",
+        "description": "app.config.factory_config",
+        "peekOfCode": "factory_config = {\n    \"services_name\": {\n        \"GeneralService\": \"general\",\n        \"AuthenticatonService\": \"authentication\"\n    }\n}",
+        "detail": "app.config.factory_config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "peekOfCode": "class Settings:\n    db_url = os.getenv(\"DB_URL\", \"sqlite+aiosqlite:///./test.db\")\n    jwt_secret = os.getenv(\"JWT_SECRET\")\n    JWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\")\n    ACCESS_TOKEN_EXPIRE_MIN = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MIN\", \"30\"))\n    APP_DEBUG = os.getenv(\"APP_DEBUG\", \"False\").lower() == \"true\" \nsettings = Settings()",
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "envpath",
+        "kind": 5,
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "peekOfCode": "envpath = os.path.join(os.path.dirname(__file__), '..', '.env')\nload_dotenv(dotenv_path=envpath)\nclass Settings:\n    db_url = os.getenv(\"DB_URL\", \"sqlite+aiosqlite:///./test.db\")\n    jwt_secret = os.getenv(\"JWT_SECRET\")\n    JWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\")\n    ACCESS_TOKEN_EXPIRE_MIN = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MIN\", \"30\"))\n    APP_DEBUG = os.getenv(\"APP_DEBUG\", \"False\").lower() == \"true\" \nsettings = Settings()",
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "kind": 6,
+        "importPath": "app.db.database",
+        "description": "app.db.database",
+        "peekOfCode": "class Database:\n    def __init__(self):\n        self.engine = create_async_engine(settings.db_url, echo=True)\n        self.SessionLocal = async_sessionmaker(self.engine, expire_on_commit=False)\n        self.Base = declarative_base()\n    async def get_session(self):\n        async with self.SessionLocal() as session:\n            yield session\ndb = Database()",
+        "detail": "app.db.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "app.db.database",
+        "description": "app.db.database",
+        "peekOfCode": "db = Database()",
+        "detail": "app.db.database",
+        "documentation": {}
+    },
+    {
+        "label": "draw_start_screen",
+        "kind": 2,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "def draw_start_screen():\n    WIN.fill((255, 255, 255))\n    title = BIG_FONT.render(\"ADHD Task Switching Test\", True, (0, 0, 0))\n    start_msg = FONT.render(\"Click anywhere to start\", True, (0, 0, 0))\n    WIN.blit(title, (WIDTH // 2 - title.get_width() // 2, HEIGHT // 3))\n    WIN.blit(start_msg, (WIDTH // 2 - start_msg.get_width() // 2, HEIGHT // 2))\n    pygame.display.update()\ndef wait_for_click():\n    waiting = True\n    while waiting:",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "wait_for_click",
+        "kind": 2,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "def wait_for_click():\n    waiting = True\n    while waiting:\n        for event in pygame.event.get():\n            if event.type == pygame.QUIT:\n                pygame.quit()\n                exit()\n            elif event.type == pygame.MOUSEBUTTONDOWN:\n                waiting = False\ndef get_random_boxes():",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_boxes",
+        "kind": 2,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "def get_random_boxes():\n    positions = [(100, 150), (250, 150), (400, 150)]\n    random.shuffle(positions)\n    keys = list(COLORS.keys())\n    return {keys[i]: pygame.Rect(positions[i][0], positions[i][1], 100, 100) for i in range(3)}\ndef draw_screen(active_task, boxes):\n    WIN.fill((255, 255, 255))\n    # Draw instruction\n    instruction = FONT.render(TASKS[active_task], True, (0, 0, 0))\n    WIN.blit(instruction, (WIDTH // 2 - instruction.get_width() // 2, 50))",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "draw_screen",
+        "kind": 2,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "def draw_screen(active_task, boxes):\n    WIN.fill((255, 255, 255))\n    # Draw instruction\n    instruction = FONT.render(TASKS[active_task], True, (0, 0, 0))\n    WIN.blit(instruction, (WIDTH // 2 - instruction.get_width() // 2, 50))\n    # Draw boxes\n    for color, rect in boxes.items():\n        pygame.draw.rect(WIN, COLORS[color], rect)\n    pygame.display.update()\ndef get_clicked_color(pos, boxes):",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "get_clicked_color",
+        "kind": 2,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "def get_clicked_color(pos, boxes):\n    for color, rect in boxes.items():\n        if rect.collidepoint(pos):\n            return color\n    return None\ndef run_task_switch_game(rounds=6):\n    draw_start_screen()\n    wait_for_click()\n    running = True\n    task_index = 0",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "run_task_switch_game",
+        "kind": 2,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "def run_task_switch_game(rounds=6):\n    draw_start_screen()\n    wait_for_click()\n    running = True\n    task_index = 0\n    while running and task_index < rounds:\n        boxes = get_random_boxes()\n        draw_screen(task_index % len(TASKS), boxes)\n        pygame.event.clear()\n        start = time.time()",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "WIN",
+        "kind": 5,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "WIN = pygame.display.set_mode((WIDTH, HEIGHT))\npygame.display.set_caption(\"ADHD Task Switching Test\")\nFONT = pygame.font.SysFont(None, 36)\nBIG_FONT = pygame.font.SysFont(None, 48)\nCOLORS = {\"red\": (255, 0, 0), \"blue\": (0, 0, 255), \"green\": (0, 255, 0)}\nTASKS = [\"Tap only RED\", \"Now tap only GREEN\", \"Now tap only BLUE\"]\nTASK_KEYS = [\"red\", \"green\", \"blue\"]\n# Track performance\nresults = {\n    \"reaction_times_ms\": [],",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "FONT",
+        "kind": 5,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "FONT = pygame.font.SysFont(None, 36)\nBIG_FONT = pygame.font.SysFont(None, 48)\nCOLORS = {\"red\": (255, 0, 0), \"blue\": (0, 0, 255), \"green\": (0, 255, 0)}\nTASKS = [\"Tap only RED\", \"Now tap only GREEN\", \"Now tap only BLUE\"]\nTASK_KEYS = [\"red\", \"green\", \"blue\"]\n# Track performance\nresults = {\n    \"reaction_times_ms\": [],\n    \"errors\": 0,\n    \"task_switch_accuracy\": []",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "BIG_FONT",
+        "kind": 5,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "BIG_FONT = pygame.font.SysFont(None, 48)\nCOLORS = {\"red\": (255, 0, 0), \"blue\": (0, 0, 255), \"green\": (0, 255, 0)}\nTASKS = [\"Tap only RED\", \"Now tap only GREEN\", \"Now tap only BLUE\"]\nTASK_KEYS = [\"red\", \"green\", \"blue\"]\n# Track performance\nresults = {\n    \"reaction_times_ms\": [],\n    \"errors\": 0,\n    \"task_switch_accuracy\": []\n}",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "kind": 5,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "COLORS = {\"red\": (255, 0, 0), \"blue\": (0, 0, 255), \"green\": (0, 255, 0)}\nTASKS = [\"Tap only RED\", \"Now tap only GREEN\", \"Now tap only BLUE\"]\nTASK_KEYS = [\"red\", \"green\", \"blue\"]\n# Track performance\nresults = {\n    \"reaction_times_ms\": [],\n    \"errors\": 0,\n    \"task_switch_accuracy\": []\n}\ndef draw_start_screen():",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "TASKS",
+        "kind": 5,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "TASKS = [\"Tap only RED\", \"Now tap only GREEN\", \"Now tap only BLUE\"]\nTASK_KEYS = [\"red\", \"green\", \"blue\"]\n# Track performance\nresults = {\n    \"reaction_times_ms\": [],\n    \"errors\": 0,\n    \"task_switch_accuracy\": []\n}\ndef draw_start_screen():\n    WIN.fill((255, 255, 255))",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "TASK_KEYS",
+        "kind": 5,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "TASK_KEYS = [\"red\", \"green\", \"blue\"]\n# Track performance\nresults = {\n    \"reaction_times_ms\": [],\n    \"errors\": 0,\n    \"task_switch_accuracy\": []\n}\ndef draw_start_screen():\n    WIN.fill((255, 255, 255))\n    title = BIG_FONT.render(\"ADHD Task Switching Test\", True, (0, 0, 0))",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "results",
+        "kind": 5,
+        "importPath": "app.lib.game.adhd.task_switch",
+        "description": "app.lib.game.adhd.task_switch",
+        "peekOfCode": "results = {\n    \"reaction_times_ms\": [],\n    \"errors\": 0,\n    \"task_switch_accuracy\": []\n}\ndef draw_start_screen():\n    WIN.fill((255, 255, 255))\n    title = BIG_FONT.render(\"ADHD Task Switching Test\", True, (0, 0, 0))\n    start_msg = FONT.render(\"Click anywhere to start\", True, (0, 0, 0))\n    WIN.blit(title, (WIDTH // 2 - title.get_width() // 2, HEIGHT // 3))",
+        "detail": "app.lib.game.adhd.task_switch",
+        "documentation": {}
+    },
+    {
+        "label": "transcribe_audio",
+        "kind": 2,
+        "importPath": "app.lib.game.dyslexia.screening",
+        "description": "app.lib.game.dyslexia.screening",
+        "peekOfCode": "def transcribe_audio(filename):\n    print(\"🧠 Loading Whisper model...\")\n    model = whisper.load_model(\"base\")  # You can use \"tiny\", \"small\", etc. for faster inference\n    print(f\"🔍 Transcribing '{filename}'...\")\n    result = model.transcribe(filename)\n    print(\"📝 Transcript:\", result[\"text\"])\n    return result[\"text\"]\n# -----------------------------\n# Step A.2: Analyze transcript using Gemma 3n via Ollama\n# -----------------------------",
+        "detail": "app.lib.game.dyslexia.screening",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_transcript_with_ollama",
+        "kind": 2,
+        "importPath": "app.lib.game.dyslexia.screening",
+        "description": "app.lib.game.dyslexia.screening",
+        "peekOfCode": "def analyze_transcript_with_ollama(transcript):\n    prompt = f\"\"\"\nThe child read:\n\"{transcript}\"\nAre there signs of dyslexia? Analyze the reading errors.\nGive a likelihood score from 0 to 1 and explain briefly.\nRespond only in JSON like:\n{{\n  \"dyslexia_score\": float,\n  \"reason\": string",
+        "detail": "app.lib.game.dyslexia.screening",
+        "documentation": {}
+    },
+    {
+        "label": "Roles",
+        "kind": 6,
+        "importPath": "app.models.roles",
+        "description": "app.models.roles",
+        "peekOfCode": "class Roles(Base):\n    \"\"\"\n    The Role model mirror of the database\n    Returns:\n        _type_: _description_\n    Attributes:\n            id (int): Primary key, auto-incremented role ID.\n            name (str): Name of the role.\n            description (str): Description of the role.\n    \"\"\"",
+        "detail": "app.models.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.models.roles",
+        "description": "app.models.roles",
+        "peekOfCode": "Base = declarative_base()\nclass Roles(Base):\n    \"\"\"\n    The Role model mirror of the database\n    Returns:\n        _type_: _description_\n    Attributes:\n            id (int): Primary key, auto-incremented role ID.\n            name (str): Name of the role.\n            description (str): Description of the role.",
+        "detail": "app.models.roles",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "peekOfCode": "class User(Base):\n    \"\"\"\n    The User model mirror of the database\n    Returns:\n        _type_: _description_\n    Attributes:\n            id (int): Primary key, auto-incremented user ID.\n            username (str): Unique username for the user.\n            email (str): Unique email address for the user.\n            full_name (str): Full name of the user.",
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.models.user",
+        "description": "app.models.user",
+        "peekOfCode": "Base = declarative_base()\nclass User(Base):\n    \"\"\"\n    The User model mirror of the database\n    Returns:\n        _type_: _description_\n    Attributes:\n            id (int): Primary key, auto-incremented user ID.\n            username (str): Unique username for the user.\n            email (str): Unique email address for the user.",
+        "detail": "app.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Ward",
+        "kind": 6,
+        "importPath": "app.models.ward",
+        "description": "app.models.ward",
+        "peekOfCode": "class Ward(Base):\n    \"\"\"\n    The Ward model mirror of the database\n    Returns:\n        _type_: _description_\n    Attributes:\n            id (int): Primary key, auto-incremented ward ID.\n            name (str): Name of the ward.\n            location (str): Location of the ward.\n            capacity (int): Capacity of the ward.",
+        "detail": "app.models.ward",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.models.ward",
+        "description": "app.models.ward",
+        "peekOfCode": "Base = declarative_base()\nclass Ward(Base):\n    \"\"\"\n    The Ward model mirror of the database\n    Returns:\n        _type_: _description_\n    Attributes:\n            id (int): Primary key, auto-incremented ward ID.\n            name (str): Name of the ward.\n            location (str): Location of the ward.",
+        "detail": "app.models.ward",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.auth",
+        "description": "app.routers.auth",
+        "peekOfCode": "router = APIRouter(prefix=\"/auth\", tags=[\"Auth\"])\n@router.post(\"/login\")\nasync def login():\n    return {\"message\": \"Login endpoint\"}    \n@router.post(\"/register\",status_code=status.HTTP_201_CREATED)\nasync def register(register_request: RegisterSchema):\n    pass\n@router.post(\"/logout\")\nasync def logout():\n    return {\"message\": \"Logout endpoint\"}   ",
+        "detail": "app.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.machine",
+        "description": "app.routers.machine",
+        "peekOfCode": "router = APIRouter(prefix=\"/machine\", tags=[\"Machine\"])\n@router.post(\"/visual-tracking\")\nasync def visual_tracking():\n    return {}",
+        "detail": "app.routers.machine",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSchema",
+        "kind": 6,
+        "importPath": "app.schemas.request.loginSchema",
+        "description": "app.schemas.request.loginSchema",
+        "peekOfCode": "class LoginSchema(BaseModel):\n    username: str = Field(..., min_length=3, max_length=50)\n    password: str = Field(..., min_length=8)",
+        "detail": "app.schemas.request.loginSchema",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterSchema",
+        "kind": 6,
+        "importPath": "app.schemas.request.registerSchema",
+        "description": "app.schemas.request.registerSchema",
+        "peekOfCode": "class RegisterSchema(BaseModel):\n    username: str = Field(..., min_length=3, max_length=50)\n    email: str = Field(... )\n    #regex=r'^[\\w\\.-]+@[\\w\\.-]+\\.\\w{2,4}$')\n    password: str = Field(..., min_length=8)\n    role: int = Field(..., ge=0, le=1)  # 0: regular user, 1: admin",
+        "detail": "app.schemas.request.registerSchema",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticatonService",
+        "kind": 6,
+        "importPath": "app.services.auth.authentication_service",
+        "description": "app.services.auth.authentication_service",
+        "peekOfCode": "class AuthenticatonService(Service):\n    \"\"\"\n    Docstring for AuthenticatonService\n    Authentication service to handle user authentication and registration.\n    \"\"\"\n    \"\"\"authenticatoin\n    \"\"\"\n    def authenticate(self, username: str, password: str) -> bool:\n        # Implement authentication logic here\n        return True",
+        "detail": "app.services.auth.authentication_service",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.services.auth.authentication_service",
+        "description": "app.services.auth.authentication_service",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\nclass AuthenticatonService(Service):\n    \"\"\"\n    Docstring for AuthenticatonService\n    Authentication service to handle user authentication and registration.\n    \"\"\"\n    \"\"\"authenticatoin\n    \"\"\"\n    def authenticate(self, username: str, password: str) -> bool:\n        # Implement authentication logic here",
+        "detail": "app.services.auth.authentication_service",
+        "documentation": {}
+    },
+    {
+        "label": "JwtService",
+        "kind": 6,
+        "importPath": "app.services.auth.jwt_service",
+        "description": "app.services.auth.jwt_service",
+        "peekOfCode": "class JwtService(Service):\n    def __init__(self) -> None:\n        pass\n    \"\"\"\n    Docstring for JwtService\n    Service to handle JWT token generation and validation.\n    \"\"\"\n    def generate_token(self, user_id: str) -> str:\n        \"\"\"Generates a JWT token for the given user ID.\n        Args:",
+        "detail": "app.services.auth.jwt_service",
+        "documentation": {}
+    },
+    {
+        "label": "GeneralService",
+        "kind": 6,
+        "importPath": "app.services.general.general_service",
+        "description": "app.services.general.general_service",
+        "peekOfCode": "class GeneralService(Service):\n    \"\"\"\n    Docstring for GeneralService\n    A general service class that implements the Service interface.\n    \"\"\"\n    def run(self):\n        \"\"\" Default running \n        \"\"\"\n        pass\n    def setup(self, data: dict={}):",
+        "detail": "app.services.general.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "kind": 6,
+        "importPath": "app.services.service",
+        "description": "app.services.service",
+        "peekOfCode": "class Service(ABC):\n    @abstractmethod\n    def run(self): \n        \"\"\" Default running \n        \"\"\"\n    @abstractmethod\n    def setup(self, data: dict={}):\n        \"\"\"Initiate and setup Class with required data\n        Args:\n            data (dict, optional): _description_. Defaults to {}.",
+        "detail": "app.services.service",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceFactory",
+        "kind": 6,
+        "importPath": "app.services.service_factory",
+        "description": "app.services.service_factory",
+        "peekOfCode": "class ServiceFactory:\n    @staticmethod\n    def create_service(service_type: str) -> Service:\n        if service_type == factory_config[\"services_name\"][\"GeneralService\"]:\n            return GeneralService()\n        elif service_type == factory_config[\"services_name\"][\"AuthenticatonService\"]:\n            return AuthenticatonService()\n        # Add more service types as needed\n        raise ValueError(f\"Unknown service type: {service_type}\")",
+        "detail": "app.services.service_factory",
+        "documentation": {}
+    },
+    {
+        "label": "read_root",
+        "kind": 2,
+        "importPath": "app.app",
+        "description": "app.app",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Hello, World!\"}\n@app.get(\"/items/{item_id}\")\ndef read_item(item_id: int, q: str = None): # type: ignore\n    return {\"item_id\": item_id, \"q\": q}\n@app.post(\"/items/\")\nasync def create_item(item: dict):\n    return {\"created\": item}",
+        "detail": "app.app",
+        "documentation": {}
+    },
+    {
+        "label": "read_item",
+        "kind": 2,
+        "importPath": "app.app",
+        "description": "app.app",
+        "peekOfCode": "def read_item(item_id: int, q: str = None): # type: ignore\n    return {\"item_id\": item_id, \"q\": q}\n@app.post(\"/items/\")\nasync def create_item(item: dict):\n    return {\"created\": item}",
+        "detail": "app.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.app",
+        "description": "app.app",
+        "peekOfCode": "app = FastAPI()\napp.mount(\"/static\", StaticFiles(directory=\"static\"), name=\"static\")\nfavicon_path = os.path.join(os.path.dirname(__file__), \"static\",  \"favicon.ico\") \n@app.get(\"/favicon.ico\", include_in_schema=False)\nasync def favicon():\n    return FileResponse(favicon_path)\n# Add CORS middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],",
+        "detail": "app.app",
+        "documentation": {}
+    },
+    {
+        "label": "favicon_path",
+        "kind": 5,
+        "importPath": "app.app",
+        "description": "app.app",
+        "peekOfCode": "favicon_path = os.path.join(os.path.dirname(__file__), \"static\",  \"favicon.ico\") \n@app.get(\"/favicon.ico\", include_in_schema=False)\nasync def favicon():\n    return FileResponse(favicon_path)\n# Add CORS middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],",
+        "detail": "app.app",
+        "documentation": {}
+    }
+]
