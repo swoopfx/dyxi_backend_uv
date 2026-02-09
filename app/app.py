@@ -1,5 +1,4 @@
-from fastapi import Depends, FastAPI, HTTPException, UploadFile, File, 
-Depends
+from fastapi import Depends, FastAPI, HTTPException, UploadFile, File, Depends
 from starlette.responses import JSONResponse, FileResponse
 from starlette import status
 from fastapi.middleware.cors import CORSMiddleware
@@ -8,7 +7,7 @@ import uvicorn
 import os
 from fastapi.staticfiles import StaticFiles
 
-from app.routers import auth, machine
+from app.routers import auth, machine, ward
 
 
 app = FastAPI()
@@ -28,8 +27,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(auth.router)
-app.include_router(machine.router)
+app.include_router(auth.router, prefix="/api", tags=["Auth"])
+app.include_router(machine.router, prefix="/api", tags=["Machine"])
+app.include_router(ward.router, prefix="/api", tags=["Ward"])
 
 @app.get("/")
 def read_root():

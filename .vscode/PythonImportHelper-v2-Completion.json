@@ -95,6 +95,41 @@
         "documentation": {}
     },
     {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "logging.handlers",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging.handlers",
+        "description": "logging.handlers",
+        "detail": "logging.handlers",
+        "documentation": {}
+    },
+    {
         "label": "create_async_engine",
         "importPath": "sqlalchemy.ext.asyncio",
         "description": "sqlalchemy.ext.asyncio",
@@ -332,15 +367,6 @@
         "documentation": {}
     },
     {
-        "label": "datetime",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "datetime",
-        "description": "datetime",
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
         "label": "uuid",
         "kind": 6,
         "isExtraImport": true,
@@ -356,6 +382,14 @@
         "importPath": "user",
         "description": "user",
         "detail": "user",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
         "documentation": {}
     },
     {
@@ -415,11 +449,35 @@
         "documentation": {}
     },
     {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
         "label": "RegisterSchema",
         "importPath": "app.schemas.request.registerSchema",
         "description": "app.schemas.request.registerSchema",
         "isExtraImport": true,
         "detail": "app.schemas.request.registerSchema",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterSchema",
+        "importPath": "app.schemas.request.registerSchema",
+        "description": "app.schemas.request.registerSchema",
+        "isExtraImport": true,
+        "detail": "app.schemas.request.registerSchema",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
         "documentation": {}
     },
     {
@@ -463,19 +521,11 @@
         "documentation": {}
     },
     {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
+        "label": "status",
+        "importPath": "starlette",
+        "description": "starlette",
         "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "Field",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
+        "detail": "starlette",
         "documentation": {}
     },
     {
@@ -492,6 +542,54 @@
         "description": "pydantic",
         "isExtraImport": true,
         "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
         "documentation": {}
     },
     {
@@ -535,19 +633,55 @@
         "documentation": {}
     },
     {
-        "label": "ABC",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "boto3",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "abc",
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
         "documentation": {}
     },
     {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
+        "label": "hmac",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "abc",
+        "importPath": "hmac",
+        "description": "hmac",
+        "detail": "hmac",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "ClientError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AuthInterface",
+        "importPath": "auth_interface",
+        "description": "auth_interface",
+        "isExtraImport": true,
+        "detail": "auth_interface",
         "documentation": {}
     },
     {
@@ -617,6 +751,14 @@
     },
     {
         "label": "machine",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "ward",
         "importPath": "app.routers",
         "description": "app.routers",
         "isExtraImport": true,
@@ -747,6 +889,33 @@
         "description": "app.config.settings",
         "peekOfCode": "settings = Settings()",
         "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logger",
+        "kind": 2,
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "peekOfCode": "def setup_logger():\n    \"\"\" Configure logger\"\"\"\n    logger = logging.getLogger(__name__)\n    logger.setLevel(logging.DEBUG)\n    # Create formatters\n    formatter = logging.Formatter(\n        '%(asctime)s - %(name)s - %(levelname)s - %(message)s',\n        datefmt='%Y-%m-%d %H:%M:%S'\n    )\n    # File handler",
+        "detail": "app.core.logging",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "peekOfCode": "def get_logger(name):\n    \"\"\"Get a logger instance\"\"\"\n    return logging.getLogger(name)",
+        "detail": "app.core.logging",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_DIR",
+        "kind": 5,
+        "importPath": "app.core.logging",
+        "description": "app.core.logging",
+        "peekOfCode": "LOG_DIR = os.path.join(os.path.dirname(__file__), '../../logs')\nos.makedirs(LOG_DIR, exist_ok=True)\n#\ndef setup_logger():\n    \"\"\" Configure logger\"\"\"\n    logger = logging.getLogger(__name__)\n    logger.setLevel(logging.DEBUG)\n    # Create formatters\n    formatter = logging.Formatter(\n        '%(asctime)s - %(name)s - %(levelname)s - %(message)s',",
+        "detail": "app.core.logging",
         "documentation": {}
     },
     {
@@ -970,8 +1139,17 @@
         "kind": 5,
         "importPath": "app.routers.machine",
         "description": "app.routers.machine",
-        "peekOfCode": "router = APIRouter(prefix=\"/machine\", tags=[\"Machine\"])\n@router.post(\"/visual-tracking\")\nasync def visual_tracking():\n    return {}",
+        "peekOfCode": "router = APIRouter(prefix=\"/machine\", tags=[\"Machine\"])\n@router.post(\"/visual-tracking\")\nasync def visual_tracking():\n    return {}\n@router.post(\"/predict\")\nasync def predict():\n    return {}   \n@router.post(\"/audio-tracking\")\nasync def audio_tracking():\n    return {}",
         "detail": "app.routers.machine",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.ward",
+        "description": "app.routers.ward",
+        "peekOfCode": "router = APIRouter(prefix=\"/ward\", tags=[\"Ward\"])\n@router.post(\"/create-ward\", status_code=status.HTTP_201_CREATED)\nasync def create_ward(ward_request: RegisterSchema):\n    pass\n@router.get(\"/get-ward/{ward_uuid}\")\nasync def get_ward(ward_uuid: str):\n    pass\n@router.get(\"/get-wards\")\nasync def get_wards():\n    pass",
+        "detail": "app.routers.ward",
         "documentation": {}
     },
     {
@@ -993,6 +1171,15 @@
         "documentation": {}
     },
     {
+        "label": "AuthInterface",
+        "kind": 6,
+        "importPath": "app.services.auth.auth_interface",
+        "description": "app.services.auth.auth_interface",
+        "peekOfCode": "class AuthInterface(ABC):\n    @abstractmethod\n    def register(self, username: str, password: str) -> bool:\n        pass\n    @abstractmethod\n    def login(self, username: str, password: str) -> str:\n        pass\n    @abstractmethod\n    def logout(self, token: str) -> bool:\n        pass",
+        "detail": "app.services.auth.auth_interface",
+        "documentation": {}
+    },
+    {
         "label": "AuthenticatonService",
         "kind": 6,
         "importPath": "app.services.auth.authentication_service",
@@ -1008,6 +1195,15 @@
         "description": "app.services.auth.authentication_service",
         "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\nclass AuthenticatonService(Service):\n    \"\"\"\n    Docstring for AuthenticatonService\n    Authentication service to handle user authentication and registration.\n    \"\"\"\n    \"\"\"authenticatoin\n    \"\"\"\n    def authenticate(self, username: str, password: str) -> bool:\n        # Implement authentication logic here",
         "detail": "app.services.auth.authentication_service",
+        "documentation": {}
+    },
+    {
+        "label": "CognitoAuthService",
+        "kind": 6,
+        "importPath": "app.services.auth.cognito_service",
+        "description": "app.services.auth.cognito_service",
+        "peekOfCode": "class CognitoAuthService(AuthInterface):\n    def __init__(self, user_pool_id, client_id, client_secret=None, region='us-east-1'):\n        self.user_pool_id = user_pool_id\n        self.client_id = client_id\n        self.client_secret = client_secret\n        self.region = region\n        self.client = boto3.client('cognito-idp', region_name=region)\n    def get_secret_hash(self, username):\n        \"\"\"Generate secret hash for requests if client secret exists\"\"\"\n        if not self.client_secret:",
+        "detail": "app.services.auth.cognito_service",
         "documentation": {}
     },
     {
